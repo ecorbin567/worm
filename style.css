@@ -24,20 +24,20 @@ body {
 
 .underground {
     height: 100%;
-    background-color: brown;
+    background-color: rgb(56, 42, 34);
     overflow: auto;
     margin-top: 0%;
     margin-left: 0%;
     padding: 0;
-    cursor: url("images/cursor_2.png"), auto;
+    cursor: url("images/cursor.png"), auto;
 }
 
 button {
-    background-color: brown;
+    background-color: rgb(56, 42, 34);
     border: none;
     border-radius: 60%;
     padding: 2%;
-    cursor: url("images/cursor_2.png"), auto;
+    cursor: url("images/cursor.png"), auto;
 }
 
 .underground-button {
@@ -45,5 +45,5 @@ button {
     border: none;
     border-radius: 60%;
     padding: 2%;
-    cursor: url("images/cursor_2.png"), auto;
+    cursor: url("images/cursor.png"), auto;
 }
