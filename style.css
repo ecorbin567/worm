@@ -33,7 +33,7 @@ body {
     cursor: url("images/cursor.png"), auto;
 }
 
-button {
+.aboveground-button {
     background-color: rgb(56, 42, 34);
     border: none;
     border-radius: 60%;
